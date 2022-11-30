@@ -1,3 +1,12 @@
+# This is a Fork
+
+This is a fork of https://github.com/onelogin/python3-saml
+
+See https://github.com/ansible/awx/issues/13244 as to why we forked this repo
+
+
+
+
 # SAML Python Toolkit (compatible with Python3)
 
 [![Build Status](https://api.travis-ci.org/onelogin/python3-saml.png?branch=master)](http://travis-ci.org/onelogin/python3-saml)
